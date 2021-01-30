@@ -90,6 +90,10 @@ div div div div {
     width: 300px;
     height: 300px; }
 
+carrusel {
+  width: 300px;
+  height: 300px; }
+
 footer {
   background-image: linear-gradient(to right, grey, black);
   width: 100%;
